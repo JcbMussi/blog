@@ -1,7 +1,6 @@
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 {% include mathjax.html %}
 This is a test
 $$
-\int
+A_t+A_{xx}+(1-e^{-|A|^2})A=0
 $$
 
